@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.exe
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.deps.json
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.runtimeconfig.json
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.dll
+C:\Users\Acer\source\repos\trasformations\trasformations\bin\Debug\netcoreapp3.1\trasformations.pdb
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.AssemblyInfo.cs
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.dll
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.pdb
+C:\Users\Acer\source\repos\trasformations\trasformations\obj\Debug\netcoreapp3.1\trasformations.genruntimeconfig.cache
